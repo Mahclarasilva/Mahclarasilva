@@ -1,4 +1,4 @@
-### Oiee eu sou a Maria Clara �
+### Oiee eu sou a Maria Clara 💻
 
 
 - 🔭 Hoje trabalho como analista de dados e DBA
